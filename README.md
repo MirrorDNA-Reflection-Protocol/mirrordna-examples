@@ -1,6 +1,16 @@
-# MirrorDNA Examples
+# ⟡ MirrorDNA Examples
 
-Example implementations of the MirrorDNA protocol across different AI platforms.
+[![N1 Intelligence](https://img.shields.io/badge/N1-Intelligence-6366f1)](https://activemirror.ai)
+[![Active MirrorOS](https://img.shields.io/badge/Active_MirrorOS-System-10b981)](https://activemirror.ai)
+[![MirrorDNA](https://img.shields.io/badge/MirrorDNA-Protocol-purple)](https://activemirror.ai/research)
+
+> **Organization:** N1 Intelligence
+> **System:** Active MirrorOS™
+> **Protocol:** MirrorDNA™
+> **Author:** Paul Desai
+> **Canonical Domain:** https://activemirror.ai
+
+Example implementations of the MirrorDNA™ protocol across different AI platforms.
 
 ## What is MirrorDNA?
 
