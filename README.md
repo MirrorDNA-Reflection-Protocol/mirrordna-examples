@@ -1,11 +1,11 @@
 # ⟡ MirrorDNA Examples
 
 [![N1 Intelligence](https://img.shields.io/badge/N1-Intelligence-6366f1)](https://activemirror.ai)
-[![Active MirrorOS](https://img.shields.io/badge/Active_MirrorOS-System-10b981)](https://activemirror.ai)
+[![ActiveMirrorOS](https://img.shields.io/badge/Active_MirrorOS-System-10b981)](https://activemirror.ai)
 [![MirrorDNA](https://img.shields.io/badge/MirrorDNA-Protocol-purple)](https://activemirror.ai/research)
 
 > **Organization:** N1 Intelligence
-> **System:** Active MirrorOS™
+> **System:** ActiveMirrorOS™
 > **Protocol:** MirrorDNA™
 > **Author:** Paul Desai
 > **Canonical Domain:** https://activemirror.ai
